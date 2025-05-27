@@ -1,4 +1,4 @@
-## 🧠 Grok Proxy API
+## 🧠 Grok API
 
 This lightweight Node.js API serves as a proxy to the [`flex-chat-api`](https://flex-chat-api.vercel.app/) for accessing Grok AI completions. It provides a simple `q`-based GET endpoint that returns AI-generated responses.
 
